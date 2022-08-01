@@ -34,7 +34,7 @@ Por lo tanto, este nuevo comité adopta estas prácticas en su propio trabajo y 
 
 Usaremos varios métodos de comunicación diferentes, incluidos el blog y el foro de la Sociedad Internacional de Fitolitos, Facebook (Comité Internacional sobre Ciencia Abierta de Fitolitos), Twitter (@open_phytoliths), Instagram (@open_phytoliths) y también estableceremos un espacio de trabajo de Slack.
 
-Actualmente tenemos un proyecto activo, el proyecto FAIR Phytolith, con el objetivo de mejorar el intercambio de datos investigando los datos de fitolitos existentes y elaborando pautas para la implementación de los principios FAIR para los datos de fitolitos existentes y futuros.
+Actualmente tenemos un proyecto activo, el proyecto FAIR Phytoliths, con el objetivo de mejorar el intercambio de datos investigando los datos de fitolitos existentes y elaborando pautas para la implementación de los principios FAIR para los datos de fitolitos existentes y futuros.
 
 También ayudaremos con el número especial sobre fitolitos en Asia para la revista Review of Palaeobotany and Palynology. Este será el primero de su tipo en pedir a los autores que cumplan con las buenas prácticas de ciencia abierta para todas las presentaciones y ofreceremos pautas sobre esta mejor práctica para ayudar a los autores.
 
