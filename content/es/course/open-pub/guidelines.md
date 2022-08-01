@@ -1,5 +1,5 @@
 ---
-title: Directrices de publicación de Open Phytoliths
+title: Directrices de publicación de Open Phytolith
 date: '2022-07-06'
 type: book
 weight: 20
