@@ -1,11 +1,11 @@
 ---
-title: FAIR principios
+title: Principios FAIR
 date: '2021-01-01'
 type: book
 weight: 20
 ---
 
-Descubra cuáles son los principios de datos FAIR y por qué son importantes para la investigación de fitolitos.
+Descubre cuáles son los principios FAIR y por qué son importantes para la investigación de fitolitos.
 
 <!--more-->
 
