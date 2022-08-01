@@ -1,5 +1,5 @@
 ---
-title: Collaboration with Github
+title: Collaboration with GitHub
 date: '2021-01-01'
 type: book
 weight: 30
@@ -8,7 +8,7 @@ tags:
   - Collaboration
 ---
 
-You will learn how to work with a collaborative workflow using Github including version control, forking, branching and pull requests.
+You will learn how to work with a collaborative workflow using GitHub including version control, forking, branching and pull requests.
 
 <!--more-->
 
