@@ -34,7 +34,7 @@ This new committee therefore embraces these practices in its own work and strive
 
 We will be using several different communication methods including the IPS blog and forum, Facebook (International Committee on Open Phytolith Science), Twitter (@open_phytoliths), Instagram (@open_phytoliths) and we will also establish a Slack workspace. 
 
-We currently have one active project, the FAIR Phytolith project, that is working to improve data sharing by investigating existing phytolith data and drawing up guidelines for the implementation of the FAIR principles for existing and future phytolith data.
+We currently have one active project, the FAIR Phytoliths project, that is working to improve data sharing by investigating existing phytolith data and drawing up guidelines for the implementation of the FAIR principles for existing and future phytolith data.
 
 We will also be helping with the special issue on Phytoliths in Asia for the journal Review of Palaeobotany and Palynology. This will be the first of its kind to ask authors to comply with good open science practices for all of the submissions and we will offer guidelines about this best practice to assist authors. 
 
