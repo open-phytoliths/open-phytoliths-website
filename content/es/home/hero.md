@@ -35,5 +35,5 @@ advanced:
 <br>
 Construyendo una visión compartida para la adopción e implementación de la ciencia abierta entre los investigadores de fitolitos a nivel mundial. 
 
-<a class="github-button" href="https://github.com/open-phytoliths" data-icon="octicon-star" data-size="large" aria-label="Visite nuestra página de organización de GitHub">Visite nuestra página de organización de GitHub</a><br>
+<a class="github-button" href="https://github.com/open-phytoliths" data-icon="octicon-star" data-size="large" aria-label="Visita nuestra página de organización de GitHub">Visite nuestra página de organización de GitHub</a><br>
 <a href="https://twitter.com/open_phytoliths?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Síguenos en @open_phytoliths</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
