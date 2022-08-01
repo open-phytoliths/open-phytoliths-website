@@ -10,32 +10,32 @@ authors:
 superuser: false
 
 # Role/position
-role: ICOPS member, Postdoctoral Research Associate
+role: Miembro de ICOPS, Investigador Postdoctoral Asociado
 
 # Organizations/Affiliations
 organizations:
-  - name: Department of Ecology and Conservation Biology, Texas A&M University
+  - name: Departmento de Ecología y Biología de la Conservación, Universidad de Texas A&M
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: Javier Ruiz-Pérez es arqueólogo-paleoecólogo y especialista en fitolitos con experiencia de campo en Bolivia, Brasil, India y España.
 
 interests:
-  - Open Research
-  - Phytoliths
-  - Amazonian archaeology/palaeoecology
-  - Ancient agricultural systems
-  - Fire ecology
+  - Ciencia Abierta
+  - Fitolitos
+  - Arqueología/paleoecología de la Amazonia
+  - Sistemas agrícolas tradicionales
+  - Ecología del fuego
 
 education:
   courses:
-    - course: PhD in History (Archaeobotany)
+    - course: Doctorado en Historia (Arqueobotánica)
       institution: Universitat Pompeu Fabra
       year: 2021
-    - course: MSc in Terrestrial Ecology
+    - course: Máster en Ecología Terrestre
       institution: Autonomous University of Barcelona
       year: 2015
-    - course: BA in History
+    - course: Grado en Historia
       institution: University of Barcelona
       year: 2013
 
@@ -64,6 +64,6 @@ user_groups:
   - icops
 ---
 
-Javier Ruiz-Pérez es arqueólogo-paleoecólogo y especialista en fitolitos con experiencia de campo en Bolivia, Brasil, India y España. Su investigación se centra principalmente en América del Sur tropical, donde investiga los sistemas de cultivo indígenas, los efectos del uso antropogénico de la tierra en el pasado en la evolución del paisaje y, más recientemente, el papel del fuego a escala milenaria en la formación de mosaicos de bosques y sabanas.
+Javier Ruiz-Pérez es arqueólogo-paleoecólogo y especialista en fitolitos con experiencia de campo en Bolivia, Brasil, India y España. Su investigación se centra principalmente en América del Sur tropical, donde investiga los sistemas de cultivo indígenas, los efectos del uso del suelo en la evolución del paisaje y, más recientemente, el papel del fuego en la formación de mosaicos de bosques y sabanas a escala milenaria.
 
-Actualmente, es investigador asociado postdoctoral en el Departamento de Ecología y Biología de la Conservación de la Universidad de Texas A&M (College Station, EE. UU.). Su trabajo actual es sobre la relación ecológica a largo plazo entre el fuego, los bosques y las sabanas en Chiquitania, Bolivia.
+Actualmente, es investigador postdoctoral asociado en el Departamento de Ecología y Biología de la Conservación de la Universidad de Texas A&M (College Station, EE. UU.). Su trabajo actual se centra en la relación ecológica a largo plazo entre el fuego, los bosques y las sabanas de la Chiquitania, Bolivia.
