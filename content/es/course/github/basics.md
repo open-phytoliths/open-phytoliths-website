@@ -1,11 +1,11 @@
 ---
-title: Github basics
+title: Lo básico de GitHub
 date: '2021-01-01'
 type: book
 weight: 20
 ---
 
-Familiarícese con la interfaz del navegador web Github, cree un nuevo repositorio y agregue archivos y carpetas.
+Familiarízate con la interfaz del navegador web GitHub, crea un nuevo repositorio y agrega archivos y carpetas.
 
 <!--more-->
 
@@ -17,7 +17,7 @@ Familiarícese con la interfaz del navegador web Github, cree un nuevo repositor
 
 ## Prueba
 
-{{< spoiler text="Dé un ejemplo de un uso de Github que aprendió en esta sesión?" >}}
+{{< spoiler text="Da un ejemplo de un uso de GitHub que aprendiste en esta sesión." >}}
 Ejemplos
 * Colaboración en equipos
 * Compartir documentación
@@ -38,8 +38,8 @@ Ejemplos
 * Archivo de licencia.
 {{< /spoiler >}}
 
-{{< spoiler text="¿Qué es el guión de rebajas?" >}}
+{{< spoiler text="¿Qué es el markdown script?" >}}
 * Es un script legible por humanos que se puede usar para agregar elementos de formato a documentos de texto sin formato.
-* La sintaxis hace que se represente de una manera que presenta un documento bien formateado en Github o páginas web.
+* La sintaxis hace que se represente de una manera que presenta un documento bien formateado en GitHub o páginas web.
 {{< /spoiler >}}
 
