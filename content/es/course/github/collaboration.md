@@ -1,5 +1,5 @@
 ---
-title: Collaboration with Github
+title: Colaboración con GitHub
 date: '2021-01-01'
 type: book
 weight: 30
@@ -8,7 +8,7 @@ tags:
   - Collaboration
 ---
 
-Aprenderá a trabajar con un flujo de trabajo colaborativo utilizando Github, incluido el control de versiones, la bifurcación, la bifurcación y las solicitudes de extracción.
+Aprenderás a trabajar con un flujo de trabajo colaborativo utilizando GitHub, incluyendo el control de versiones, la bifurcación y las solicitudes de extracción.
 
 <!--more-->
 
@@ -34,11 +34,11 @@ Aprenderá a trabajar con un flujo de trabajo colaborativo utilizando Github, in
 ## Prueba
 
 {{< spoiler text="¿Qué es el control de versiones?" >}}
-* La gestión de los cambios, llamados revisiones, a un archivo.
+* La gestión de los cambios, llamados revisiones, de un archivo.
 {{< /spoiler >}}
 
-{{< spoiler text="¿En qué se diferencia trabajar en un tenedor de trabajar en una rama?" >}}
-* Una bifurcación es una copia de un repositorio que es un repositorio completamente independiente. No hay necesidad de acceso de escritura o intención de fusionarse con el principal.
-* Una rama apunta a una confirmación específica en su repositorio. Las ramas son lugares temporales para trabajar a través de una característica o tarea y necesita acceso de escritura al repositorio.
+{{< spoiler text="¿En qué se diferencia trabajar en un Fork de trabajar en una Branch?" >}}
+* Un Fork es una copia de un repositorio que es un repositorio completamente independiente. No hay necesidad de acceso de escritura o intención de fusionarse con el principal.
+* Una Branch apunta a una confirmación específica en su repositorio. Los Fork son lugares temporales para trabajar a través de una característica o tarea y necesita acceso de escritura al repositorio.
 {{< /spoiler >}}
 
