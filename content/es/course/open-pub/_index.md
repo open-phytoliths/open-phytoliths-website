@@ -1,5 +1,5 @@
 ---
-title: Directrices de publicación abierta
+title: Guía de publicación abierta
 linkTitle: Publicación abierta
 summary: Ayuda para la comunidad de fitolitos con publicaciones más abiertas y FAIR.
 date: '2021-01-24'
@@ -15,7 +15,7 @@ tags:
 
 ## De qué se trata el proyecto
 
-### Desarrollo de las directrices
+### Desarrollo de la guía
 
 Doris Barboni solicitó que las pautas de publicación abiertas fueran desarrolladas por el Comité Internacional de Ciencia Abierta de Fitolitos. Las directrices se utilizarán inicialmente en el número especial sobre fitolitos en Asia de la revista *Review of Palaeobotany and Palynology*.
 
