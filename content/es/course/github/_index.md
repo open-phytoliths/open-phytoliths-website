@@ -1,7 +1,7 @@
 ---
-title: 📊 Aprender Github
-linkTitle: Github
-summary: Nuestro primer conjunto de cursos de capacitación para la comunidad de fitolitos se llevó a cabo en tres sesiones en la primavera de 2022. Aquí están todos los materiales para estas tres sesiones, para que pueda trabajar en ellas a su propio ritmo.
+title: 📊 Aprender GitHub
+linkTitle: GitHub
+summary: Nuestro primer conjunto de cursos de capacitación para la comunidad de fitolitos se llevó a cabo en tres sesiones en la primavera de 2022. Aquí están todos los materiales para estas tres sesiones, para que puedas trabajar en ellas a tu propio ritmo.
 date: '2021-01-24'
 type: book
 tags:
@@ -14,21 +14,21 @@ tags:
 
 ## Lo que vas a aprender
 
-- {{<hl>}}Github Basics{{</hl>}}
-- {{<hl>}}Collaboration{{</hl>}} with Github
-- {{<hl>}}Further uses{{</hl>}} of Github 
+- Lo básico de GitHub
+- Colaboración con GitHub
+- Otros usos de GitHub 
 
 ## Reseña del programa
-Github es una herramienta que se utiliza para la gestión de proyectos de investigación y el seguimiento del historial de su trabajo durante los proyectos. Se puede utilizar para almacenar y colaborar durante proyectos con datos, código y documentación. También es útil para hacer sitios web gratuitos.
+GitHub es una herramienta que se utiliza para la gestión de proyectos de investigación y el seguimiento del historial de su trabajo durante los proyectos. Se puede utilizar para almacenar y colaborar durante proyectos con datos, código y documentación. También es útil para hacer sitios web gratuitos.
 
-El primer curso básico cubrirá la interfaz web básica de Github y cómo crear repositorios, agregar archivos y carpetas. También incluirá algunos ejemplos de usos de Github.
+El primer curso básico cubre la interfaz web básica de GitHub y cómo crear repositorios, agregar archivos y carpetas. También incluirá algunos ejemplos de usos de GitHub.
 
-El segundo curso cubre flujos de trabajo colaborativos usando Github, incluyendo bifurcaciones, ramas y solicitudes de extracción.
+El segundo curso cubre flujos de trabajo colaborativos usando GitHub, incluyendo bifurcaciones, ramas y solicitudes de extracción.
 
-El tercer curso cubre cómo habilitar y editar páginas de Github (sitios web), cómo vincular Github a repositorios de archivo a largo plazo (Zenodo y Open Science Framework) y repasa brevemente los tableros de administración de proyectos.
+El tercer curso cubre cómo habilitar y editar páginas de GitHub (sitios web), cómo vincular GitHub a repositorios de archivo a largo plazo (Zenodo y Open Science Framework) y repasa brevemente el sistema de administración de proyectos.
 
-* Aquí hay un ejemplo de un repositorio de Github utilizado para un proyecto de fitolitos: https://github.com/open-phytoliths/FAIR-phytoliths
-* Y un sitio web producido con Github: https://open-phytoliths.github.io/FAIR-phytoliths/
+* Aquí hay un ejemplo de un repositorio de GitHub utilizado para un proyecto de fitolitos: https://github.com/open-phytoliths/FAIR-phytoliths
+* Y un sitio web producido con GitHub: https://open-phytoliths.github.io/FAIR-phytoliths/
 
 
 ## Cursos en este programa
