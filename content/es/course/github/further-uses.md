@@ -1,5 +1,5 @@
 ---
-title: Further uses with Github
+title: Otros usos de GitHub
 date: '2021-01-01'
 type: book
 weight: 40
@@ -10,8 +10,8 @@ tags:
 ---
 
 Aprenderás:
-* cómo habilitar y editar páginas de Github (sitios web),
-* cómo usar enlaces y usar repositorios con Github, incluidos Zenodo y Open Science Framework,
+* cómo habilitar y editar páginas de GitHub (sitios web),
+* cómo usar enlaces y usar repositorios con GitHub, incluidos Zenodo y Open Science Framework,
 * cómo usar tableros de proyectos para la gestión de proyectos.
 
 <!--more-->
@@ -19,10 +19,10 @@ Aprenderás:
 {{< icon name="clock" pack="fas" >}} 2 horas
 
 ## Aprender
-### Cómo habilitar y editar repositorios de Github para páginas web
+### Cómo habilitar y editar repositorios de GitHub para páginas web
 {{< youtube pU7UlAip4oo  >}}
 
-### Cómo vincular repositorios en Github
+### Cómo vincular repositorios en GitHub
 {{< youtube 9RVFFg4A9gY  >}}
 
 ### Cómo usar tableros de proyecto
@@ -30,6 +30,6 @@ Aprenderás:
 
 ## Prueba
 
-{{< spoiler text="¿A qué repositorios puedes vincular usando Github?" >}}
+{{< spoiler text="¿A qué repositorios puedes vincular usando GitHub?" >}}
 * Zenodo, Open Science Framework y Figshare.
 {{< /spoiler >}}
