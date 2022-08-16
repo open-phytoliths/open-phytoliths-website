@@ -1,11 +1,11 @@
 ---
-title: Github basics
+title: GitHub basics
 date: '2021-01-01'
 type: book
 weight: 20
 ---
 
-Get familiar with the Github web browser interface, make a new repository and add files and folders.
+Get familiar with the GitHub web browser interface, make a new repository and add files and folders.
 
 <!--more-->
 
@@ -17,7 +17,7 @@ Get familiar with the Github web browser interface, make a new repository and ad
 
 ## Quiz
 
-{{< spoiler text="Give an example of a use of Github that you learnt about in this session??" >}}
+{{< spoiler text="Give an example of a use of GitHub that you learnt about in this session??" >}}
 Examples
 * Collaboration as teams
 * Share documentation
@@ -29,7 +29,7 @@ Examples
 * Project tracking with version control
   {{< /spoiler >}}
 
-{{< spoiler text="Describe how to start editing a file in Github?" >}}
+{{< spoiler text="Describe how to start editing a file in GitHub?" >}}
 * Press the pencil icon button.
 {{< /spoiler >}}
 
@@ -40,6 +40,6 @@ Examples
 
 {{< spoiler text="What is markdown script?" >}}
 * It’s a human readable script that can be use to add formatting elements to plaintext text documents.
-* The syntax makes it render in a way that presents a nicely formatted document on Github or webpages.
+* The syntax makes it render in a way that presents a nicely formatted document on GitHub or webpages.
 {{< /spoiler >}}
 
