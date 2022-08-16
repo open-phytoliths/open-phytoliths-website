@@ -18,7 +18,7 @@ main:
     PageRef: course/fair/_index.md
     weight: 20
     parent: course
-  - name: Open Publishing guidelines
+  - name: Open Publishing
     PageRef: course/open-pub/_index.md
     weight: 20
     parent: course  
