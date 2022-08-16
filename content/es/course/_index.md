@@ -11,4 +11,4 @@ banner:
   image: ''
 ---
 
-¡Explore los proyectos que estamos llevando a cabo actualmente y vea cómo puede unirse!
+¡Explora los proyectos que estamos llevando a cabo actualmente y mira cómo puedes unirte!
