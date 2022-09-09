@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: = ICOPS member, Researcher associate
+role: ICOPS member, Researcher associate
 
 # Organizations/Affiliations
 organizations:
