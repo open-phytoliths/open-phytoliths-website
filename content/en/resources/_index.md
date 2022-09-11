@@ -14,7 +14,6 @@ header:
   image: ""
 ---
 
-# Resources
 
 ## Phytolith specific resources
 * [International Phytolith Society](https://phytoliths.org/)
@@ -25,12 +24,12 @@ header:
 
 ## Open Science organisations and communities
 * [Centre for Open Science](https://www.cos.io/)
-* Reproducibility Network
+* **Reproducibility Network**
   * [UKRN](https://www.ukrn.org/)
   * [German Reproducibility Network](https://reproducibilitynetwork.de/)
   * [Italian Reproducibility Network](https://www.itrn.org/)
   * [Swiss Reproducibility Network](https://www.swissrn.org/)
-* *The Turing Way* - guide to reproducible, ethical and collaborative research - [The online book](https://the-turing-way.netlify.app/welcome) and information about joining the community and their events [HERE](https://hackmd.io/@turingway/demo-intro).  
+* **The Turing Way** - guide to reproducible, ethical and collaborative research - [The online book](https://the-turing-way.netlify.app/welcome) and information about joining the community and their events [HERE](https://hackmd.io/@turingway/demo-intro).  
 * [Openscapes](https://www.openscapes.org/) - open practices in environmental science
 * [Open Life Science](https://openlifesci.org/) - The Open Life Science (OLS) program is for people interested in applying open principles in their work and becoming Open Science ambassadors in their communities.
 * [SOCIETY FOR OPEN, RELIABLE, AND TRANSPARENT ECOLOGY AND EVOLUTIONARY BIOLOGY (SORTEE)](https://www.sortee.org/)
@@ -47,7 +46,8 @@ header:
 * USA 
   * [Memorandum on Ensuring Free, Immediate, and Equitable Access to Federally Funded Research - 25 August 2022](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf)
   * [Nature articles about changes to US open access policy](https://www.nature.com/articles/d41586-022-02351-1)
-* *We are keen to add other open research policies to help our community understand what is needed in their country - please do suggest where these can be found.*
+
+*We are keen to add other open research policies to help our community understand what is needed in their country - please do suggest where these can be found.*
 
 ## 🚧 This page is a work in progress - please do [email us](mail.to:open.phytoliths@gmail.com) with any suggested resources to add. 🚧
 
