@@ -47,7 +47,7 @@ header:
   * [Memorandum on Ensuring Free, Immediate, and Equitable Access to Federally Funded Research - 25 August 2022](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf)
   * [Nature articles about changes to US open access policy](https://www.nature.com/articles/d41586-022-02351-1)
 
-*We are keen to add other open research policies to help our community understand what is needed in their country - please do suggest where these can be found.*
+*We are keen to add other open research policies to help our community understand what is required in their country - please do suggest where these can be found.*
 
 ## 🚧 This page is a work in progress - please do [email us](mail.to:open.phytoliths@gmail.com) with any suggested resources to add. 🚧
 
