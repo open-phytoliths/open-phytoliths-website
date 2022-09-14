@@ -21,7 +21,7 @@ header:
   * **ICPN 2.0** - International Committee for Phytolith Taxonomy (ICPT), International Code for Phytolith Nomenclature (ICPN) 2.0, Annals of Botany, Volume 124, Issue 2, 24 July 2019, Pages 189–199, [https://doi.org/10.1093/aob/mcz064](https://academic.oup.com/aob/article/124/2/189/5537002?searchresult=1)
 
 
-## Open Science organisations and communities
+## Open Science Organisations and Communities
 * [Centre for Open Science](https://www.cos.io/)
 * **Reproducibility Network**
   * [UKRN](https://www.ukrn.org/)
