@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: ICOPS member
+role: ICOPS member, IPS President
 
 # Organizations/Affiliations
 organizations:
