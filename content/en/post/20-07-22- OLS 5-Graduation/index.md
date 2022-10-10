@@ -36,6 +36,8 @@ During our training at OLS5 we developed our motto:
 
 To build a shared vision for the adoption and implementation of open science among phytolith researchers globally. 
 
+*Written by Gabi Musaubach, with translation help from Celine Kerfant and Emma Karoune.*
+
 <!--more-->
 
 ![OLS 5 Group photo](https://github.com/open-phytoliths/open-phytoliths-website/blob/main/assets/media/image%20(1).png)
