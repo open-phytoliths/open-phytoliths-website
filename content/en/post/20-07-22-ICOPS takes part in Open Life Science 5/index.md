@@ -9,7 +9,7 @@ thumbnail-img: Our Community Journey!
 
 <!--more-->
 
-![Our community Journey]()
+[Our community Journey]()
 
 On July 20th 2022, the International Committee on Open Phytolith Science participated 
 in the graduation ceremony of cohort 5 of the Open Life Science (OLS-5) program 
