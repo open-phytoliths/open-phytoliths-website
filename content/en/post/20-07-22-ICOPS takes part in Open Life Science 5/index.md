@@ -9,7 +9,7 @@ thumbnail-img: Our Community Journey!
 
 <!--more-->
 
-![Our community Journey](https://github.com/open-phytoliths/open-phytoliths-website/blob/main/content/en/post/Our%20community%20journey.jpg)
+![Our community Journey](comm-journey.jpg)
 
 On July 20th 2022, the International Committee on Open Phytolith Science participated 
 in the graduation ceremony of cohort 5 of the Open Life Science (OLS-5) program 
@@ -40,7 +40,7 @@ To build a shared vision for the adoption and implementation of open science amo
 
 <!--more-->
 
-![OLS 5 Group photo](OLS 5 Group photo.png "OLS5 Group photo")
+![OLS 5 Group photo](OLS-5-pic.png "OLS5 Group photo")
 
 
 
