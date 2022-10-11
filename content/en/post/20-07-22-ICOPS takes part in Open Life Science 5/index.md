@@ -40,7 +40,7 @@ To build a shared vision for the adoption and implementation of open science amo
 
 <!--more-->
 
-![OLS 5 Group photo](OLS 5 Group photo.png "OLS5 Group photo")
+![OLS 5 Group photo](OLS-5-pic.png "OLS5 Group photo")
 
 
 
