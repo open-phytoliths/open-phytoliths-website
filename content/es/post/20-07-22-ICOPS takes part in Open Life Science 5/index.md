@@ -9,7 +9,7 @@ thumbnail-img: Our Community Journey!
 
 <!--more-->
 
-![Our community Journey](https://github.com/open-phytoliths/open-phytoliths-website/blob/main/content/es/post/Our%20community%20journey.jpg)
+![Our community Journey](comm-journey.jpg)
 
 El 20 de julio de 2022 el Comité Internacional de Ciencia Abierta de Fitolitos 
 participó en la ceremonia de graduación de la cohorte 5 del programa Open Life Science (OLS-5)
@@ -43,5 +43,5 @@ Construir una visión compartida para la adopción e implementación de la cienc
 
 <!--more-->
 
-![OLS 5 Group photo](https://github.com/open-phytoliths/open-phytoliths-website/blob/main/content/es/post/OLS%205%20Group%20photo.png)
+![OLS 5 Group photo](OLS-5-pic.png)
 
