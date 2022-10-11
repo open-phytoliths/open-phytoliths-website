@@ -9,7 +9,7 @@ thumbnail-img: Our Community Journey!
 
 <!--more-->
 
-![Our community Journey](https://github.com/open-phytoliths/open-phytoliths-website/blob/main/content/fr/post/Our%20community%20journey.jpg)
+![Our community Journey](comm-journey.jpg)
 
 Le 20 juillet 2022, le Comité international pour la science ouverte des phytolithes 
 a participé à la cérémonie de remise des diplômes de la cohorte 5 du programme Open 
@@ -40,7 +40,7 @@ pour la recherche portant sur les phytolithes au niveau mondial".
 
 <!--more-->
 
-![OLS 5 Group photo](https://github.com/open-phytoliths/open-phytoliths-website/blob/main/content/fr/post/OLS%205%20Group%20photo.png)
+![OLS 5 Group photo](OLS-5-pic.png)
 
 
 
