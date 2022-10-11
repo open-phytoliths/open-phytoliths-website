@@ -40,7 +40,7 @@ To build a shared vision for the adoption and implementation of open science amo
 
 <!--more-->
 
-![OLS 5 Group photo](https://github.com/open-phytoliths/open-phytoliths-website/blob/main/content/en/post/OLS%205%20Group%20photo.png)
+![OLS 5 Group photo](OLS 5 Group photo.png)
 
 
 
