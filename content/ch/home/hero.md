@@ -34,7 +34,7 @@ advanced:
 
 <br>
 
-Building a shared vision for open science adoption and implementation among phytolith researchers globally. 
+建立全球植硅体研究者间的开放社团是我们的共同愿景。
 
 <a class="github-button" href="https://github.com/open-phytoliths" aria-label="Visit our GitHub organisation page">Visit our GitHub organisation page</a>
 <br>
