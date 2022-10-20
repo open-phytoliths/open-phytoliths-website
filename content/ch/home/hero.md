@@ -36,6 +36,6 @@ advanced:
 
 建立全球植硅体研究者间的开放社团是我们的共同愿景。
 
-<a class="github-button" href="https://github.com/open-phytoliths" aria-label="访问我们的 GitHub 页面">访问我们的 GitHub 页面</a>
+<a class="github-button" href="https://github.com/open-phytoliths" aria-label="访问我们的 GitHub 页面">Visit our GitHub organisation page</a>
 <br>
 <a href="https://twitter.com/open_phytoliths?ref_src=twsrc%5Etfw" class="关注@open_phytoliths" data-show-count="false">Follow @open_phytoliths</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
