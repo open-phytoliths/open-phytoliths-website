@@ -1,5 +1,5 @@
 ---
-title: First Meeting of the International Committee on Open Phytolith Science
+title: 国际植硅体开放科学委员会第一次会议
 date: 2021-12-03
 thumbnail-img: meeting1.jpg
 ---
@@ -11,37 +11,37 @@ thumbnail-img: meeting1.jpg
 
 ![first meeting photo](meeting1.jpg "Our first ICOPS meeting")
 
-The International Committee on Open Phytolith Science (ICOPS) has been created within the International Phytolith Society to work on increasing the knowledge of and implementation of open science practices in phytolith research. 
+国际植硅体开放科学委员会（ICOPS）隶属于国际植硅体社群（International Phytolith Society）。委员会致力于深化开放科学在植硅体研究领域的应用。
 
-The first committee meeting took place on 3rd December 2021. We have 11 committee members who come from all over the world. 
+第一次委员会会议于2021年12月3日举行。我们有11名来自世界各地的委员会成员参加了这次会议。 
 
-The committee members are (in alphabetical order):
-* Doris Barboni (CEREGE, France)
-* Jennifer Bates (Seoul National University, South Korea) 
-* Abraham Dabengwa (University of the Witwatersrand, South Africa)
-* Zach Dunseth (Brown University, USA)
-* Juan José García-Granero (Spanish National Research Council, Spain) 
-* Emma Karoune (Chair, The Alan Turing Institute, UK)
-* Celine Kerfant (Universitat Pompeu Fabra, Spain)
-* Carla Lancelotti (Universitat Pompeu Fabra, Spain)
-* Marco Madella (Universitat Pompeu Fabra, Spain)
-* Maria Gabriela Musaubach (National University of Jujuy and Institute of Andean Ecoregions (CONICET-UNJu), Argentina)
-* Javier Ruiz-Pérez (Texas A&M University, USA)
+委员会成员为（按英文名字母顺序排列）：
+* 多丽丝·巴尔博尼（法国CEREGE研究所） 
+* 詹妮弗·贝茨（韩国首尔国立大学）
+* 亚伯拉罕·达本格瓦（南非威特沃特斯兰德大学）
+* 扎克·邓塞斯 （美国布朗大学）
+* 胡安·何塞·加西亚-格拉内罗（西班牙国家研究委员会）
+* 艾玛·卡龙（英国艾伦图灵研究所，现任委员会主席）
+* 席琳·克凡特（西班牙庞培法布拉大学）
+* 卡拉·兰切洛蒂（西班牙庞培法布拉大学）
+* 马可·马德拉（西班牙庞培法布拉大学）
+* 玛丽亚·加布里埃拉·穆索巴赫（阿根廷胡胡伊国立大学和安第斯生态区研究所） 
+* 哈维尔·鲁伊斯-佩雷斯（美国德克萨斯农工大学）
 
-Open Science is an approach that aims to transform research by making it more reproducible, transparent, reusable, collaborative, accountable and accessible to society. Open Science emcompasses many different practices such as open data, open methods, open source software, open hardware, open access publishing, citizen science, open educational resources and equity, diversity and inclusion.
+开放科学是使研究成果对作者以外的人员具有可重复、开放透明、可重复利用等特点，并且增强研究成果之间的协作，使研究者对研究结果负责的一种科学体系。开放科学包含许多方面的应用，如开放数据，开放方法，开源软件，开放硬件和开放获取出版等，同时，开放科学致力于公众科普和开放教育资源，以及这些资源的对等性，多样性和包容性。
 
-This new committee therefore embraces these practices in its own work and strives to make everything that it does open and transparent to the phytolith community. We aim to engage with the phytolith community regularly from the very start and we encourage phytolith researchers to get involved in the training, seminars, discussions and working initiatives that we will be doing. 
+因此，国际植硅体开放科学委员会将致力于在植硅体研究者中推动开放科学的应用，努力提高植硅体研究成果的开放性和可获取性。我们拟定期在植硅体研究社团中进行交流 ，我们也欢迎其他的植物体研究人员积极参与相关的培训、研讨会、讨论和工作计划。
 
-We will be using several different communication methods including the IPS blog and forum, Facebook (International Committee on Open Phytolith Science), Twitter (@open_phytoliths), Instagram (@open_phytoliths) and we will also establish a Slack workspace. 
+我们将采用多种多样的宣传和沟通方式，包括IPS博客和论坛、Facebook（国际植硅体开放科学委员会），推特（@open_phytoliths）以及照片墙（@open_phytoliths）。此外，我们还将建立一个Slack工作区以供大家交流。
 
-We currently have one active project, the FAIR Phytoliths project, that is working to improve data sharing by investigating existing phytolith data and drawing up guidelines for the implementation of the FAIR principles for existing and future phytolith data.
+我们目前在执行一个FAIR Phytoliths项目。该项目致力于既有植物体研究数据的共享，并且辅助FAIR原则在既有以及未来植硅体研究中的应用。
 
-We will also be helping with the special issue on Phytoliths in Asia for the journal Review of Palaeobotany and Palynology. This will be the first of its kind to ask authors to comply with good open science practices for all of the submissions and we will offer guidelines about this best practice to assist authors. 
+我们还协助在《古植物学和古生物学评论》杂志组织了关于亚洲植硅体研究的特刊。这是第一次要求作者遵循开放科学原则的实践，我们也将提供指南以协助作者进行投稿。
 
-We will start to run community meet-ups in the new year that will include talks and training on different open science practices, so please look out for information about these events.
+我们在新的一年将举办社团活动，包括如何在各个层面实现开放科学的讲座和培训，因此敬请留意有关活动的信息。
 
-We look forward to working with you all,
+我们期待与大家合作，
 
-The International Committee for Open Phytolith Science
+国际植硅体开放科学委员会
 
-Doris Barboni, Jennifer Bates, Abraham Dabengwa, Zachary C. Dunseth, Juan José García-Granero, Emma Karoune, Celine Kerfant, Carla Lancelotti, Marco Madella, Maria Gabriela Musaubach, Javier Ruiz-Pérez.
+多丽丝·巴尔博尼、詹妮弗·贝茨、亚伯拉罕·达本瓜、扎卡里·邓塞斯、胡安·何塞·加西亚-格拉内罗、艾玛·卡龙、席琳·克凡特、卡拉·兰斯洛蒂、马可·马德拉、玛丽亚·加布里埃拉·穆索巴赫、哈维尔·鲁伊斯-佩雷斯。
