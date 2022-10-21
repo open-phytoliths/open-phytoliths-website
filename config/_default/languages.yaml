@@ -25,10 +25,17 @@ es:
   title: Open Phytoliths
   params:
     description: Comité Internacional de Ciencia Abierta en Fitolitos - Iniciativa de construcción comunitaria y capacitación para la comunidad Phytolith.
+zh:
+  languageCode: zh-Hans
+  contentDir: content/zh
+  title: Open Phytoliths
+  weight: 1
+  params:
+    description: 开放植硅体科学国际委员会 - 植硅体社区的社区建设和培训计划。
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
-#  languageCode: zh-Hans
+#  languageCode: zh
 #  contentDir: content/zh
 #  title: Chinese website title...
 #  params:
