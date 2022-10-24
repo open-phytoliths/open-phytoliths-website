@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Open Phytoliths Community
+title: 植硅体开放社团
 hero_media: 
 design:
   background:
@@ -36,6 +36,6 @@ advanced:
 
 建立全球植硅体研究者间的开放社团是我们的共同愿景。
 
-<a class="访问我们的 GitHub 页面" href="https://github.com/open-phytoliths" aria-label="Visit our GitHub organisation page">Visit our GitHub organisation page</a>
+<a class="github-button" href="https://github.com/open-phytoliths" data-icon="octicon-star" data-size="large" aria-label="访问我们的 GitHub 页面">访问我们的 GitHub 页面</a>
 <br>
-<a href="https://twitter.com/open_phytoliths?ref_src=twsrc%5Etfw" class="关注@open_phytoliths" data-show-count="false">Follow @open_phytoliths</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/open_phytoliths?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">关注@open_phytoliths</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
