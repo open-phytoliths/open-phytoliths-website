@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Meet the ICOPS Team
+title: 联系ICOPS成员
 subtitle:
 
 content:
