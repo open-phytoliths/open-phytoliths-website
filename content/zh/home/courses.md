@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Our projects
+title: 社团项目
 subtitle:
 content:
   filters:
@@ -16,11 +16,11 @@ content:
   filter_default: 0
 
   filter_button:
-    - name: All Projects
+    - name: 所有项目
       tag: '*'
-    - name: Previous
+    - name: 既往项目
       tag: previous
-    - name: Current
+    - name: 当前项目
       tag: current
 design:
   columns: '1'
