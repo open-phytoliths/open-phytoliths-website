@@ -8,20 +8,20 @@ feature:
   - icon: seedling
     icon_pack: fas
     name: ICOPS
-    description: 植硅体开放社团（Open Phytoliths Community）是由国际植硅体开放科学委员会（ICOPS，International Committee on Open Phytolith Science）发起并创立的一个社团。
+    description: 是旨在推广开放科学在植硅体研究领域应用的一个团体，它发起并创办了植硅体开放社团（Open Phytoliths Community  国际植硅体开放科学委员会（ICOPS，International Committee on Open Phytolith Science。
   - icon: rocket
     icon_pack: fas
-    name: Our Mission
-    description: We are striving to make phytolith research more open, reproducible and FAIR!
+    name: 目标
+    description: 我们努力使植硅体研究更加开源、可重现和“公平”（指FAIR phytolith project）。
 
   - icon: globe
     icon_pack: fas
-    name: Our Community
-    description: We are a global community of researchers from multiple disciplines such as archaeology, palaeoecology, palaeontology and plant sciences.
+    name: 植硅体开放社团
+    description: 我们（Open Phytoliths Community）是一个由考古学家、古生态学家、古生物学家和植物学家等组成的国际多学科社团。
 
 ---
 
-植硅体开放社团（Open Phytoliths Community）是由国际植硅体开放科学委员会（ICOPS，International Committee on Open Phytolith Science）发起并创立的一个社团。
+是旨在推广开放科学在植硅体研究领域应用的一个团体，它发起并创办了植硅体开放社团（Open Phytoliths Community) 国际植硅体开放科学委员会（ICOPS，International Committee on Open Phytolith Science)。
 
 国际植硅体开放科学委员会作为一个国际植硅体同行的协会，开放和透明是我们的基本原则。我们希望能够基于这一基本原则，在植硅体研究领域内形成一个开放、共享，并且可以相互信任的群体。我们鼓励社团的成员对委员会提供的任何文档、培训以及计划发表评论并作出反馈。同时，我们也欢迎您提出具有针对性的意见和建议，我们会审慎对待这些意见，以确保委员会和社团的工作能够更好的服务植硅体领域的研究者。 
 
