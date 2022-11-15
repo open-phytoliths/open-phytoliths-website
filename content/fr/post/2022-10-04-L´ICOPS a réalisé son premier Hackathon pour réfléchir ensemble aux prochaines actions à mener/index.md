@@ -18,4 +18,4 @@ Des sujets phares tels que l'application des principes FAIR et CARE, les problè
 
 Dr. Henriette Harmse, spécialiste en description de logique pour le Web sémantique, était présente aux deux sessions, a pu répondre aux interrogations des chercheurs et participer aux discussions. Nous avons également eu le plaisir d'avoir avec nous le Dr. Olivier Nelle, dendrochronologiste, qui en adressant le même constat de manque de partage des données dans une autre discipline de l´archéobotanique, a rappelé l'importance pour le comité de conserver une approche intégratrice et transdisciplinaire.
 
-*Ecrit par Celine Kerfant, traduit6 par Gabi Musaubach et Emma Karoune.*
+*Ecrit par Celine Kerfant, traduit par Gabi Musaubach et Emma Karoune.*
