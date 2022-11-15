@@ -18,3 +18,4 @@ El diseño de ontologías dedicadas a los fitolitos puede abordar varios de los 
 
 La Dra. Henriette Harmse, especialista en descripción lógica para la Web Semántica, estuvo presente en ambas sesiones y pudo responder a las preguntas de los investigadores, e incluso participó en los debates. También tuvimos el placer de contar con el Dr. Olivier Nelle, especialista en dendrocronología, que abordó el tema de la citada falta de intercambio de datos en esa disciplina de la arqueobotánica. Nos recordó la importancia de que el comité mantenga un enfoque integrador y transdisciplinario.
 
+Escrito por Celine Kerfant, con la ayuda de las traducciones de Gabi Musaubach y Emma Karoune.
