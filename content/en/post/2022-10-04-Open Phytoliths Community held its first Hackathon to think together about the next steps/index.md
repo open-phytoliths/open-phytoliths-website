@@ -22,4 +22,4 @@ Dr. Henriette Harmse, a specialist in logic description for the Semantic Web, wa
 
 *Written by Celine Kerfant, with translation help from Gabi Musaubach and Emma Karoune.*
 
-<!--more-->
+
