@@ -34,4 +34,5 @@ International Committee of Open Phytolith Science (ICOPS)
 *Emma Karoune (Committee Chair), Doris Barboni, Jennifer Bates, Abraham Dabengwa, Zachary C. Dunseth, Juan José García-Granero, Yong Ge, Celine Kerfant, Carla Lancelotti, Marco Madella, Maria Gabriela Musaubach, Javier Ruiz-Pérez.*
 
 ![EOSC-Life](eosclifelogo.png)
+
 This initiative has been funded by EOSC-Life (reference APPID2596). EOSC-Life has received funding from the European Union’s Horizon 2020 programme under grant agreement number 824087.
