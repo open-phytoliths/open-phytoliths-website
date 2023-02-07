@@ -4,7 +4,9 @@ date: 2023-02-07
 thumbnail-img: Our Community Journey!
 ---
 
-The International Committee of Open Phytolith Science (ICOPS) is organising a series of workshops in Open Research Skills open to everyone. We will use examples and case studies from plant-related palaeoscience fields (e.g., archaeobotany, palaeoecology) but most of the talks and exercises will be general and therefore useful for all researchers
+<!--more-->
+
+The International Committee of Open Phytolith Science (ICOPS) is organising a series of workshops in Open Research Skills open to everyone. We will use examples and case studies from plant-related palaeoscience fields (e.g., archaeobotany, palaeoecology) but most of the talks and exercises will be general and therefore useful for all researchers.
 
 **List of training workshops in Open Research Skills**
 - 24th February 2023 - Open access publishing
@@ -32,6 +34,8 @@ Looking forward to seeing you all there!
 International Committee of Open Phytolith Science (ICOPS)
 
 *Emma Karoune (Committee Chair), Doris Barboni, Jennifer Bates, Abraham Dabengwa, Zachary C. Dunseth, Juan José García-Granero, Yong Ge, Celine Kerfant, Carla Lancelotti, Marco Madella, Maria Gabriela Musaubach, Javier Ruiz-Pérez.*
+
+<!--more-->
 
 ![EOSC-Life](eosclifelogo.png)
 
