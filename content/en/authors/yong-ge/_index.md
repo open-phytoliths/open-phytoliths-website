@@ -31,10 +31,10 @@ education:
     - course: PhD Paleontology and Stratigraphy
       institution: Institute of Geology and Geophysics, Chinese Academy of Sciences 
       year: 2012-2017
-    - course: Physical Geography
+    - course: MSc in Physical Geography
       institution: Northeast Normal University
       year: 2009-2012
-    - course: Geographical Science
+    - course: BSc in Geographical Science
       institution: Northeast Normal University
       year: 2005-2009
 
