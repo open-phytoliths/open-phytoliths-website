@@ -9,11 +9,16 @@ Learn how to apply collaborative workflow tools (e.g., fork and branch repositor
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 2 hours
+{{< icon name="clock" pack="fas" >}} 1-2 hours
 
-## Session video
+## Session videos
 
-{{< youtube uVsYTv4CG14 >}}
+{{< youtube QFNts5RJ0sM >}}
+{{< youtube EjUMKh-pE3A >}}
+{{< youtube gJXVxrtvTLU >}}
+{{< youtube RgfN5QqFxxg >}}
+{{< youtube BaxgtJYkE98 >}}
+
 
 ## Details of content
 ### Introduction
