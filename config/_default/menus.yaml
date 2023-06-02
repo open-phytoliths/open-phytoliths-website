@@ -24,7 +24,7 @@ main:
     parent: course
     - name: Open Research Training Workshops
     PageRef: course/open-res-workshop/_index.md
-    weight: 40
+    weight: 30
     parent: course
   - name: Blog
     PageRef: post/_index.md
