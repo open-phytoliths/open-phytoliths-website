@@ -8,6 +8,8 @@ tags:
   - current
 ---
 
+{{< figure src="featured.jpg" >}}
+
 {{< toc hide_on="xl" >}}
 
 ## Program overview
