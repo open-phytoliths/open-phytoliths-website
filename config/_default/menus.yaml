@@ -22,7 +22,7 @@ main:
     PageRef: course/open-pub/_index.md
     weight: 30
     parent: course
-    - name: Open Research Training Workshops
+  - name: Open Research Training Workshops
     PageRef: course/open-res-workshop/_index.md
     weight: 40
     parent: course
