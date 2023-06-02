@@ -14,7 +14,7 @@ tags:
 
 ## Program overview
 
-The International Committee of Open Phytolith Science (ICOPS) organised a series of workshops in Open Research Skills open to everyone. We used examples and case studies from plant-related palaeoscience fields (e.g., archaeobotany, palaeoecology) but most of the talks and exercises are general and therefore useful for all researchers. The workshops consisted of a combination of short introduction talks, discussions, demonstrations and hand-on exercises. Documents, slides and videos for each session are provided below in multiple languages.
+The International Committee of Open Phytolith Science (ICOPS) organised a series of workshops in Open Research Skills open to everyone. We used examples and case studies from plant-related palaeoscience fields (e.g., archaeobotany, palaeoecology) but most of the talks and exercises are general and therefore useful for all researchers. The workshops consisted of a combination of short introduction talks, discussions, demonstrations and hand-on exercises. Documents, slides and videos are provided for each session.
 
 ## Courses in this program
 
