@@ -15,6 +15,10 @@ Understand and use the FAIR Phytoliths Project’s FAIR Guidelines for assessing
 
 {{< youtube uVsYTv4CG14 >}}
 
+## Session documents
+- [Shared document]
+- [Slides]
+
 ## Details of content
 ### Introduction 
 - Introduction to FAIR data principles
