@@ -2,7 +2,7 @@
 title: FAIR data
 date: '2023-06-30'
 type: book
-weight: 80
+weight: 70
 ---
 
 Understand and use the FAIR Phytoliths Project’s FAIR Guidelines for assessing how FAIR a dataset is. 
