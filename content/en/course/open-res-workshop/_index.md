@@ -28,7 +28,7 @@ There are no prerequisites.
 Continuously, at your own pace.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="basics" >}}
+{{< cta cta_text="Begin the course" cta_link="open-pub" >}}
 
 # Funding
 
