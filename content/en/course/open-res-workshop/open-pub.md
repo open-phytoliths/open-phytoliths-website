@@ -13,7 +13,7 @@ Understand the difference between open access options and the range of research 
 
 ## Session video
 
-{{< youtube uVsYTv4CG14 >}}
+{{< youtube Lqs1fG4Q9lY >}}
 
 ## Details of content
 ### Introduction to open access publishing
