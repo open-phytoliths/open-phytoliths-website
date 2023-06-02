@@ -15,6 +15,10 @@ Understand the difference between open access options and the range of research 
 
 {{< youtube Lqs1fG4Q9lY >}}
 
+## Session documents
+- [Shared document](https://docs.google.com/document/d/1c915dQDxBASG6uOpGAUaufShGt-eF55Qx6M9vYDVbKE/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/12gD7MWZrqDs7nxfFFygh_P_hksFoM1i5X7aM_zHLp_g/edit?usp=sharing)
+
 ## Details of content
 ### Introduction to open access publishing
 - Types of open access publishing
