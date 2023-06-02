@@ -11,9 +11,12 @@ Understand the use of standard vocabularies, and particularly ontologies, for in
 
 {{< icon name="clock" pack="fas" >}} 2 hours
 
-## Session video
+## Session videos
 
-{{< youtube uVsYTv4CG14 >}}
+{{< youtube G7Fz9TZrG4I >}}
+{{< youtube tk-QQwthKyM >}}
+{{< youtube hmVcJwqAJWQ >}}
+{{< youtube qZaWkJlVXvE >}}
 
 ## Details of content
 ### Introduction
