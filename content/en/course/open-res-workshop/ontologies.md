@@ -18,6 +18,10 @@ Understand the use of standard vocabularies, and particularly ontologies, for in
 {{< youtube hmVcJwqAJWQ >}}
 {{< youtube qZaWkJlVXvE >}}
 
+## Session documents
+- [Shared document](https://docs.google.com/document/d/1R5OLya9jwg8OsLpxDO2hMbGopemEN-jpnB9MYj16T_s/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1jXN9HJ7JXd__m4w8E6CfA8WE2g1_gGkwvUe7FmGjfcY/edit?usp=sharing)
+
 ## Details of content
 ### Introduction
 - Introduction to standard vocabularies and ontologies
