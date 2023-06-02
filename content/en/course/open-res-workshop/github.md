@@ -9,7 +9,7 @@ Understand how to use the GitHub web browser interface to set up a working repos
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 2 hours
+{{< icon name="clock" pack="fas" >}} 1-2 hours
 
 ## Session video
 
