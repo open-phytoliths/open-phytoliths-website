@@ -32,6 +32,6 @@ Continuously, at your own pace.
 
 {{< cta cta_text="Begin the course" cta_link="open-pub" >}}
 
-# Funding
+## Funding
 
 This initiative has been funded by EOSC-Life (reference APPID2596). EOSC-Life has received funding from the European Union’s Horizon 2020 programme under grant agreement number 824087.
