@@ -10,7 +10,7 @@ main:
   - name: Projects
     weight: 20
     identifier: course
-  - name: Learn Github
+  - name: Learn GitHub
     PageRef: course/github/_index.md
     weight: 10
     parent: course
@@ -22,7 +22,7 @@ main:
     PageRef: course/open-pub/_index.md
     weight: 30
     parent: course
-    - name: Open Research
+    - name: Open Research Training Workshops
     PageRef: course/open-res-workshop/_index.md
     weight: 40
     parent: course
