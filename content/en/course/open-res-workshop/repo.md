@@ -17,7 +17,7 @@ Understand how to use a data repository for archiving research output.
 
 ## Session documents
 - [Shared document](https://docs.google.com/document/d/1e5L1BMtqOG22MH1YhiF5bLNdo4ylRnR5AwdcvjvFfNU/edit?usp=sharing)
-- [Slides](https://docs.google.com/presentation/d/1x5wuOquTZummKU_TOd4j8BpU-rdbGQgH0NciGpgdAag/edit?usp=sharing)
+- [Slides](https://doi.org/10.5281/zenodo.7717229)
 
 ## Details of content
 ### Introduction to different types of repositories
