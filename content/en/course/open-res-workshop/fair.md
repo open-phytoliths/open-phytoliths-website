@@ -13,11 +13,11 @@ Understand and use the FAIR Phytoliths Project’s FAIR Guidelines for assessing
 
 ## Session video
 
-{{< youtube uVsYTv4CG14 >}}
+{{< youtube LINK >}}
 
 ## Session documents
-- [Shared document]
-- [Slides]
+- [Shared document](LINK)
+- [Slides](LINK)
 
 ## Details of content
 ### Introduction 
