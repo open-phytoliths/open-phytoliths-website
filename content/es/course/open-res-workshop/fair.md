@@ -1,5 +1,5 @@
 ---
-title: FAIR data
+title: Datos FAIR
 date: '2023-06-30'
 type: book
 weight: 70
