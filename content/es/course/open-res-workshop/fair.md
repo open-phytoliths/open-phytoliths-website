@@ -15,7 +15,7 @@ Comprender y utilizar la Guía FAIR del Proyecto de Fitolitos FAIR para evaluar 
 
 {{< youtube LINK >}}
 
-## Documentos de la sesión.
+## Documentos de la sesión
 - [Documento compartido](LINK)
 - [Diapositivas](LINK)
 
