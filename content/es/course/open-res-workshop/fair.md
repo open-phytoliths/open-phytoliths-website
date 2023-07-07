@@ -5,7 +5,7 @@ type: book
 weight: 70
 ---
 
-Comprender y utilizar las Pautas FAIR del Proyecto de Fitolitos FAIR para evaluar qué tan FAIR es un conjunto de datos.
+Comprender y utilizar la Guía FAIR del Proyecto de Fitolitos FAIR para evaluar qué tan FAIR es un conjunto de datos.
 
 <!--more-->
 
@@ -30,5 +30,5 @@ Comprender y utilizar las Pautas FAIR del Proyecto de Fitolitos FAIR para evalua
 - Cómo utilizar la guía de Fitolitos FAIR
 
 ### Ejercicio
-- Discusión sobre la Pauta de Fitolitos FAIR: obtener aportes de la comunidad
+- Discusión sobre la Guía de Fitolitos FAIR: obtener aportes de la comunidad
 - Trae tus propios datos. Se solicita a los participantes que traigan sus propios datos para hacerlos FAIR utilizando las pautas y una herramienta de verificación de datos FAIR
