@@ -1,5 +1,5 @@
 ---
-title: GitHub collaborative workflows
+title: Flujo de trabajo colaborativo en GitHub
 date: '2023-04-28'
 type: book
 weight: 50
