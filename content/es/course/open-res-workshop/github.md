@@ -5,7 +5,7 @@ type: book
 weight: 40
 ---
 
-Comprender cómo utilizar la interfaz del navegador web de GitHub para configurar un repositorio de trabajo y agregar y modificar archivos.
+Comprende cómo utilizar la interfaz del navegador web de GitHub para configurar un repositorio de trabajo y agregar y modificar archivos.
 
 <!--more-->
 
