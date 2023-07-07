@@ -1,6 +1,6 @@
 ---
 title: Talleres en Investigación Abierta
-linkTitle: Workshop
+linkTitle: Talleres
 summary: Talleres sobre investigación abierta organizados por ICOPS con ejemplos y estudios de caso de campos relacionados con la paleociencia de plantas. Aquí están todos los materiales para cada sesión, para que puedas trabajar a tu propio ritmo.
 date: '2023-02-24'
 type: book
