@@ -1,5 +1,5 @@
 ---
-title: GitHub basics
+title: Principios básicos de GitHub
 date: '2023-04-21'
 type: book
 weight: 40
