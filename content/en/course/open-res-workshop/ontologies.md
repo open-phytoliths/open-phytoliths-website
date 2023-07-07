@@ -28,7 +28,7 @@ Understand the use of standard vocabularies, and particularly ontologies, for in
   - What are ontologies?
   - Ontologies vs vocabularies
   - How are they used and how can they help?
-  - Choosing to build your own ontology versus using existing ontologies.
+  - Choosing to build your own ontology versus using existing ontologies
 
 ### Demonstration 
 - Demonstration of the Phytolith Ontology and uses
