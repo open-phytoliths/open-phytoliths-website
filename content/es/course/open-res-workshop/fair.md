@@ -11,12 +11,15 @@ Comprender y utilizar la Guía FAIR del Proyecto de Fitolitos FAIR para evaluar 
 
 {{< icon name="clock" pack="fas" >}} 2 horas
 
-## Vídeo de la sesión.
+## Vídeos de la sesión
 
-{{< youtube LINK >}}
+{{< youtube VsphfgppcWg >}}
+{{< youtube yNcLApDHxFY >}}
+{{< youtube UZizjXCvnbM >}}
+{{< youtube --OO8upPhhM >}}
 
 ## Documentos de la sesión
-- [Documento compartido](LINK)
+- [Documento compartido](https://docs.google.com/document/d/1U2OmsnsyHGFk8ggeCxhhnrflVjP9SYTjhMESFd99574/edit?usp=sharing)
 - [Diapositivas](LINK)
 
 ## Detalles del contenido
