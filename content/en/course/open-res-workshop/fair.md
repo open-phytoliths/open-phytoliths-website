@@ -11,7 +11,7 @@ Understand and use the FAIR Phytoliths Project’s FAIR Guidelines for assessing
 
 {{< icon name="clock" pack="fas" >}} 2 hours
 
-## Session video
+## Session videos
 
 {{< youtube VsphfgppcWg >}}
 {{< youtube yNcLApDHxFY >}}
