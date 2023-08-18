@@ -20,7 +20,7 @@ Comprende el uso de vocabularios estándar, y en particular ontologías, para la
 
 ## Documentos de la sesión
 - [Documento compartido](https://docs.google.com/document/d/1R5OLya9jwg8OsLpxDO2hMbGopemEN-jpnB9MYj16T_s/edit?usp=sharing)
-- [Diapositivas](https://docs.google.com/presentation/d/1jXN9HJ7JXd__m4w8E6CfA8WE2g1_gGkwvUe7FmGjfcY/edit?usp=sharing)
+- [Diapositivas](https://zenodo.org/record/8047482)
 
 ## Detalles del contenido
 ### Introducción
