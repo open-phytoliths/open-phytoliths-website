@@ -21,7 +21,7 @@ Learn how to apply collaborative workflow tools (e.g., fork and branch repositor
 
 ## Session documents
 - [Shared document](https://docs.google.com/document/d/1PXmTW-qqoPCMpQSDL-xT3Xu9H3dLKpuBIh1dauwHS-s/edit?usp=sharing)
-- [Slides](https://zenodo.org/record/8271923)
+- [Slides](https://doi.org/10.5281/zenodo.8271923)
 
 ## Details of content
 ### Introduction
