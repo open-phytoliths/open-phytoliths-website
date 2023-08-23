@@ -17,7 +17,7 @@ Comprende cómo utilizar la interfaz del navegador web de GitHub para configurar
 
 ## Documentos de la sesión
 - [Documento compartido](https://docs.google.com/document/d/1W-y-PkJShLHfaTIgIzdqj0iGOLOL8lULaFt-co_ZICc/edit?usp=sharing)
-- [Diapositivas](https://docs.google.com/presentation/d/16kd4sn_BfjgaJTmnP-6PiXTJ5220wHW-TIdhWRU-l8o/edit?usp=sharing)
+- [Diapositivas](https://zenodo.org/record/8271891)
 
 ## Detalles del contenido
 ### Introducción a GitHub
