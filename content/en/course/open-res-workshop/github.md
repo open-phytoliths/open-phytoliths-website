@@ -17,7 +17,7 @@ Understand how to use the GitHub web browser interface to set up a working repos
 
 ## Session documents
 - [Shared document](https://docs.google.com/document/d/1W-y-PkJShLHfaTIgIzdqj0iGOLOL8lULaFt-co_ZICc/edit?usp=sharing)
-- [Slides](https://zenodo.org/record/8271891)
+- [Slides](https://doi.org/10.5281/zenodo.8271891)
 
 ## Details of content
 ### Introduction to GitHub
