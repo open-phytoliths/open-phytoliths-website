@@ -21,7 +21,7 @@ Aprende cómo aplicar herramientas de flujo de trabajo colaborativo (por ejemplo
 
 ## Documentos de la sesión
 - [Documento compartido](https://docs.google.com/document/d/1PXmTW-qqoPCMpQSDL-xT3Xu9H3dLKpuBIh1dauwHS-s/edit?usp=sharing)
-- [Diapositivas](https://zenodo.org/record/8271923)
+- [Diapositivas](https://doi.org/10.5281/zenodo.8271923)
 
 ## Detalles del contenido
 ### Introducción
