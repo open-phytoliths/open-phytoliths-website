@@ -20,7 +20,7 @@ Understand the use of standard vocabularies, and particularly ontologies, for in
 
 ## Session documents
 - [Shared document](https://docs.google.com/document/d/1R5OLya9jwg8OsLpxDO2hMbGopemEN-jpnB9MYj16T_s/edit?usp=sharing)
-- [Slides](https://zenodo.org/record/8047482)
+- [Slides](https://doi.org/10.5281/zenodo.8047482)
 
 ## Details of content
 ### Introduction
