@@ -20,7 +20,7 @@ Understand and use the FAIR Phytoliths Project’s FAIR Guidelines for assessing
 
 ## Session documents
 - [Shared document](https://docs.google.com/document/d/1U2OmsnsyHGFk8ggeCxhhnrflVjP9SYTjhMESFd99574/edit?usp=sharing)
-- [Slides](LINK)
+- [Slides](https://doi.org/10.5281/zenodo.8337947)
 
 ## Details of content
 ### Introduction 
