@@ -15,7 +15,7 @@ Understand the difference between open access options and the range of research 
 - YouTube
 {{< youtube Lqs1fG4Q9lY >}} <br />
 
-- Bilibili
+- Bilibili <br />
 &nbsp;<iframe src="//player.bilibili.com/player.html?aid=281958486&bvid=BV1kc411i7cT&cid=1357563590&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## Session documents
