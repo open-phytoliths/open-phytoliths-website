@@ -12,8 +12,11 @@ Understand how to use the GitHub web browser interface to set up a working repos
 {{< icon name="clock" pack="fas" >}} 1-2 hours
 
 ## Session video
+- YouTube
+{{< youtube uVsYTv4CG14 >}} <br />
 
-{{< youtube uVsYTv4CG14 >}}
+- Bilibili <br />
+&nbsp;<iframe src="//player.bilibili.com/player.html?aid=791991026&bvid=BV1uC4y1X7yU&cid=1357403652&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## Session documents
 - [Shared document](https://docs.google.com/document/d/1W-y-PkJShLHfaTIgIzdqj0iGOLOL8lULaFt-co_ZICc/edit?usp=sharing)
