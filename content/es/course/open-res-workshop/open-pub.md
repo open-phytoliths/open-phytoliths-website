@@ -12,8 +12,11 @@ Comprende la diferencia entre las opciones de acceso abierto y la variedad de re
 {{< icon name="clock" pack="fas" >}} 2 horas
 
 ## Vídeo de la sesión
+- YouTube
+{{< youtube Lqs1fG4Q9lY >}} <br />
 
-{{< youtube Lqs1fG4Q9lY >}}
+- Bilibili <br />
+&nbsp;<iframe src="//player.bilibili.com/player.html?aid=281958486&bvid=BV1kc411i7cT&cid=1357563590&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## Documentos de la sesión
 - [Documento compartido](https://docs.google.com/document/d/1c915dQDxBASG6uOpGAUaufShGt-eF55Qx6M9vYDVbKE/edit?usp=sharing)
