@@ -12,11 +12,14 @@ Comprende el uso de vocabularios estándar, y en particular ontologías, para la
 {{< icon name="clock" pack="fas" >}} 2 horas
 
 ## Vídeos de la sesión
-
+- YouTube
 {{< youtube G7Fz9TZrG4I >}}
 {{< youtube tk-QQwthKyM >}}
 {{< youtube hmVcJwqAJWQ >}}
-{{< youtube qZaWkJlVXvE >}}
+{{< youtube qZaWkJlVXvE >}} <br />
+
+- Bilibili <br />
+&nbsp;<iframe src="//player.bilibili.com/player.html?aid=366927947&bvid=BV1J94y177X5&cid=1357434655&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## Documentos de la sesión
 - [Documento compartido](https://docs.google.com/document/d/1R5OLya9jwg8OsLpxDO2hMbGopemEN-jpnB9MYj16T_s/edit?usp=sharing)
