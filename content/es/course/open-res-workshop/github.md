@@ -12,8 +12,11 @@ Comprende cómo utilizar la interfaz del navegador web de GitHub para configurar
 {{< icon name="clock" pack="fas" >}} 1-2 horas
 
 ## Vídeo de la sesión
+- YouTube
+{{< youtube uVsYTv4CG14 >}} <br />
 
-{{< youtube uVsYTv4CG14 >}}
+- Bilibili <br />
+&nbsp;<iframe src="//player.bilibili.com/player.html?aid=791991026&bvid=BV1uC4y1X7yU&cid=1357403652&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## Documentos de la sesión
 - [Documento compartido](https://docs.google.com/document/d/1W-y-PkJShLHfaTIgIzdqj0iGOLOL8lULaFt-co_ZICc/edit?usp=sharing)
