@@ -12,9 +12,9 @@ Understand the difference between open access options and the range of research 
 {{< icon name="clock" pack="fas" >}} 2 hours
 
 ## Session video
-- YouTube  
-{{< youtube Lqs1fG4Q9lY >}}
-  
+- YouTube
+{{< youtube Lqs1fG4Q9lY >}} <br />
+
 - Bilibili
 <iframe src="//player.bilibili.com/player.html?aid=281958486&bvid=BV1kc411i7cT&cid=1357563590&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
