@@ -12,12 +12,15 @@ Aprende cómo aplicar herramientas de flujo de trabajo colaborativo (por ejemplo
 {{< icon name="clock" pack="fas" >}} 1-2 horas
 
 ## Vídeos de la sesión
-
+- YouTube
 {{< youtube QFNts5RJ0sM >}}
 {{< youtube EjUMKh-pE3A >}}
 {{< youtube gJXVxrtvTLU >}}
 {{< youtube RgfN5QqFxxg >}}
-{{< youtube BaxgtJYkE98 >}}
+{{< youtube BaxgtJYkE98 >}} <br />
+
+- Bilibili <br />
+&nbsp;<iframe src="//player.bilibili.com/player.html?aid=749467173&bvid=BV18C4y1w7TP&cid=1357419000&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## Documentos de la sesión
 - [Documento compartido](https://docs.google.com/document/d/1PXmTW-qqoPCMpQSDL-xT3Xu9H3dLKpuBIh1dauwHS-s/edit?usp=sharing)
