@@ -13,7 +13,7 @@ tags:
 {{< toc hide_on="xl" >}}
 
 ### What are our clinic sessions?
-Are you struggling to put open science into practice? Would you like 1 to 1 help
+Are you struggling to put open science into practice? Would you like 1 to 1 help?
 
 We are offering personalised help sessions to assist phytolith researchers, and those in related fields, implement open science practices in their research projects.
 
