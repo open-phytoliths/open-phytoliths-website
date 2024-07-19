@@ -2,7 +2,7 @@
 title: Clininc sessions on open science
 linkTitle: Clinic sessions
 summary: Clinic sessions to help phytolith researchers implement the FAIR data principles in phytolith research.
-date: '2024-07-19'
+date: '2023-07-19'
 type: book
 tags:
   - current
