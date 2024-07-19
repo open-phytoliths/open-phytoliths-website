@@ -26,6 +26,10 @@ main:
     PageRef: course/open-res-workshop/_index.md
     weight: 40
     parent: course
+  - name: Clinic sessions on open science
+    PageRef: course/clinic/_index.md
+    weight: 50
+    parent: course
   - name: Blog
     PageRef: post/_index.md
     weight: 30
