@@ -1,5 +1,5 @@
 ---
-title: Clininc sessions on open science
+title: Open science clinic sessions
 linkTitle: Clinic sessions
 summary: Clinic sessions to help phytolith researchers implement the FAIR data principles in phytolith research.
 date: '2023-01-01'
