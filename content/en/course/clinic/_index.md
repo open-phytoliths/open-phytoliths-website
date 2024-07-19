@@ -17,7 +17,7 @@ Are you struggling to put open science into practice? Would you like 1 to 1 help
 
 We are offering personalised help sessions to assist phytolith researchers, and those in related fields, implement open science practices in their research projects.
 
-We are offering help with lots of different open science practices:
+We can help with lots of different open science practices:
 - Open access/Open publishing
 - Open repositories
 - Open and FAIR data
